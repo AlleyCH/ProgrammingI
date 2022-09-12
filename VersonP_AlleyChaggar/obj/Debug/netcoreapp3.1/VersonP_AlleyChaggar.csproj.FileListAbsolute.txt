@@ -1,0 +1,14 @@
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\bin\Debug\netcoreapp3.1\VersonP_AlleyChaggar.exe
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\bin\Debug\netcoreapp3.1\VersonP_AlleyChaggar.deps.json
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\bin\Debug\netcoreapp3.1\VersonP_AlleyChaggar.runtimeconfig.json
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\bin\Debug\netcoreapp3.1\VersonP_AlleyChaggar.runtimeconfig.dev.json
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\bin\Debug\netcoreapp3.1\VersonP_AlleyChaggar.dll
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\bin\Debug\netcoreapp3.1\VersonP_AlleyChaggar.pdb
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\obj\Debug\netcoreapp3.1\VersonP_AlleyChaggar.csproj.AssemblyReference.cache
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\obj\Debug\netcoreapp3.1\VersonP_AlleyChaggar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\obj\Debug\netcoreapp3.1\VersonP_AlleyChaggar.AssemblyInfoInputs.cache
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\obj\Debug\netcoreapp3.1\VersonP_AlleyChaggar.AssemblyInfo.cs
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\obj\Debug\netcoreapp3.1\VersonP_AlleyChaggar.csproj.CoreCompileInputs.cache
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\obj\Debug\netcoreapp3.1\VersonP_AlleyChaggar.dll
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\obj\Debug\netcoreapp3.1\VersonP_AlleyChaggar.pdb
+C:\Users\Alisha\source\repos\VersonP_AlleyChaggar\obj\Debug\netcoreapp3.1\VersonP_AlleyChaggar.genruntimeconfig.cache
